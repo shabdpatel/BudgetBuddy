@@ -37,7 +37,7 @@ BudgetBuddy is an expense tracker website built using React, designed to help us
 
 ## Usage
 
-1. Clone the repository: `git clone [repository-url]`
+1. Clone the repository: `git clone [https://github.com/shabdpatel/BudgetBuddy]`
 2. Install dependencies: `npm install`
 3. Run the application: `npm start`
 
