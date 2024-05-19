@@ -47,4 +47,4 @@ Contributions are welcome! Please follow the guidelines outlined in the CONTRIBU
 
 ## Project Link
 
-[Link to BudgetBuddy](https://shabdbudgetbudy.netlify.app/)
+[Link to BudgetBuddy](https://budgetbuddy-shabd.vercel.app/)
