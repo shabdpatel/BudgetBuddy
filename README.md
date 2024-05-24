@@ -45,6 +45,4 @@ BudgetBuddy is an expense tracker website built using React, designed to help us
 
 Contributions are welcome! Please follow the guidelines outlined in the CONTRIBUTING.md file.
 
-## Project Link
 
-[Link to BudgetBuddy](https://budgetbuddy-shabd.vercel.app/)
